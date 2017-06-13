@@ -1,0 +1,12 @@
+[user]
+	name = Tom Byers
+	email = tombaromba@gmail.com
+[color]
+	ui = auto
+[alias]
+	ci = commit
+	st = status
+	co = checkout
+[core]
+	editor = vim
+	excludesfile = /Users/tombyers/.gitignore_global
