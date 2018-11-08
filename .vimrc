@@ -11,6 +11,7 @@ set number
 set hlsearch
 set ruler
 set colorcolumn=100
+set list
 autocmd FileType gitcommit set tw=50
 autocmd FileType python set tabstop=4 shiftwidth=4
 autocmd FileType html set tabstop=4 shiftwidth=4
